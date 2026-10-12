@@ -1,0 +1,37 @@
+# 1. Python Environment & Caches
+# ==========================================
+# Python virtual environment folders
+.venv/
+venv/
+ENV/
+env/
+
+# Python compiled bytecode and cache folders
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# 2. Operating System Files (Mac & Windows)
+# ==========================================
+# macOS specific system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific system files
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
+
+# 3. Editor & IDE Settings
+# ==========================================
+# Zed Editor configurations
+.zed/
+
+# VS Code settings
+.vscode/
+
+# PyCharm / IntelliJ settings
+.idea/
