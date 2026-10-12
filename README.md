@@ -1,2 +1,2 @@
 # Calculus
-Multi-functional calculator written in Python.
+Collaborative practice repository for Python, Git and teamwork.
