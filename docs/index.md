@@ -1,7 +1,8 @@
 # Project Calculus
 
-Hello
-こんにちは
-မင်္ဂလာပါ
+- Hello
+- こんにちは
+- မင်္ဂလာပါ
 
-ほめてほめてほめてほめてやりたいところだぁ
+> [!NOTE]
+> This project will be conducted in multiple languages.
